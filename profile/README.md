@@ -1,10 +1,10 @@
 ## Lincegroup 👋
-
+![image](https://github.com/Lincegroup/.github/blob/main/profile/DESKTOP%20.png)
 COMPANY PRESENTATION and MISSION  
 ---------------
 🙋‍♀️ The company is formed by engineers with high level of experience in many different applications areas, from high end motorsport applications, such as F1, to heavy industry environments, for example Oil&Gas systems. 
 The core mission of the company is to interface all the different world of applications expertise to find the best compromise for the design and development of a new system.
-![image](https://github.com/Lincegroup/.github/blob/main/profile/lince-logo-yellow.ai)
+
 
 CORE SERVICES
 ---------------
