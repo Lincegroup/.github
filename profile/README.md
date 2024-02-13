@@ -1,4 +1,4 @@
-## Lincegroup 👋
+## 🚀 Lincegroup 
 ![image](https://github.com/Lincegroup/.github/blob/main/profile/DESKTOP%20.png)
 COMPANY PRESENTATION and MISSION  
 ---------------
