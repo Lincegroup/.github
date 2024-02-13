@@ -1,5 +1,5 @@
 ## 🚀 Lincegroup 
-<img src="http://....jpg](https://github.com/Lincegroup/.github/blob/main/profile/DESKTOP%20.png)" width="200" height="200" />
+<img src="https://github.com/Lincegroup/.github/blob/main/profile/DESKTOP%20.png" width="400" height="200" />
 
 COMPANY PRESENTATION and MISSION  
 ---------------
