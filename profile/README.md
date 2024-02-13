@@ -1,5 +1,6 @@
 ## 🚀 Lincegroup 
-![image](https://github.com/Lincegroup/.github/blob/main/profile/DESKTOP%20.png)
+<img src="http://....jpg](https://github.com/Lincegroup/.github/blob/main/profile/DESKTOP%20.png)" width="200" height="200" />
+
 COMPANY PRESENTATION and MISSION  
 ---------------
 🙋‍♀️ The company is formed by engineers with high level of experience in many different applications areas, from high end motorsport applications, such as F1, to heavy industry environments, for example Oil&Gas systems. 
