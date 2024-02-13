@@ -1,4 +1,4 @@
-## 🚀 Lincegroup 
+## <img src="https://github.com/Lincegroup/.github/blob/main/profile/LOGO%20SOLO%20DISEGNO%20GIALLO.png" width="20" height="15"/> Lincegroup 
 <img src="https://github.com/Lincegroup/.github/blob/main/profile/DESKTOP%20.png" width="400" height="200" />
 
 COMPANY PRESENTATION and MISSION  
