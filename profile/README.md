@@ -1,12 +1,12 @@
 ## Lincegroup 👋
 
-#COMPANY PRESENTATION and MISSION  
+COMPANY PRESENTATION and MISSION  
 ---------------
 🙋‍♀️ The company is formed by engineers with high level of experience in many different applications areas, from high end motorsport applications, such as F1, to heavy industry environments, for example Oil&Gas systems. 
 The core mission of the company is to interface all the different world of applications expertise to find the best compromise for the design and development of a new system.
 ![image](https://lincesrl.sharepoint.com/:i:/s/LINCESRL/EbN-Kcs9TORCuChMrKi2SL4BiDpx0QrHbtWmGHdBLUPEJA?e=S4Ui8w)
 
-#CORE SERVICES
+CORE SERVICES
 ---------------
 🔵 DESIGN AND ENGINEERING
 Full management of the design and engineering phase, from clean sheet to final releases. Capability of designing and engineer a complete system.
@@ -20,13 +20,13 @@ Independent test programs campaign definition and execution to support simulatio
 🔵 VEHICLE SIMULATIONS
 High level of expertise in vehicle dynamic simulation, from vehicle definition to car set up and performance development.
 
-#R&D and opensource 
+R&D and opensource 
 ---------------
 
 📖 We believe in the power of open source and all the benefits that come with it, like collaboration with colleagues inside and outs our company. We want to share tools and instruments to solve day by day engineering issue
 and speed up workflow and calculation      
 
-#NAME AND ADRESS 
+NAME AND ADRESS 
 ---------------
 LINCE s.r.l.
 
@@ -36,7 +36,7 @@ Office address: Montichiari (BS) – Via Oscar Romero 5 – CAP 25018
 
 VAT n°: IT04496060981
 
-#CONTACTS 
+CONTACTS 
 ---------------
 info@lincegroup.it
 s.mandelli@lincegroup.it
