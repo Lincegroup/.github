@@ -9,16 +9,16 @@ The core mission of the company is to interface all the different world of appli
 
 CORE SERVICES
 ---------------
-🔵 DESIGN AND ENGINEERING
+⚓ DESIGN AND ENGINEERING
 Full management of the design and engineering phase, from clean sheet to final releases. Capability of designing and engineer a complete system.
 
-🔵 FEA AND CFD SIMULATIONS
+🧮 FEA AND CFD SIMULATIONS
 Fully integrated design and simulation loop. FEA on isotropic and orthotropic materials, including full composites parts, CFD on complicated systems, interaction fluid – structures.
 
-🔵 TESTING 
+🛹 TESTING 
 Independent test programs campaign definition and execution to support simulations or to feedback engineering requirements.
 
-🔵 VEHICLE SIMULATIONS
+🚘 VEHICLE SIMULATIONS
 High level of expertise in vehicle dynamic simulation, from vehicle definition to car set up and performance development.
 
 R&D and opensource 
